@@ -1,0 +1,29 @@
+{
+  "name": "websocket-snapchat",
+  "version": "1.0.0",
+  "description": "it is a chatting app : using socket.io module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "iamdeepak199"
+  },
+  "keywords": [
+    "websocket",
+    "socket.io",
+    "chatting",
+    "app"
+  ],
+  "author": "deepak bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.8.1"
+  }
+}
