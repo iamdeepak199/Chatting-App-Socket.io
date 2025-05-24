@@ -83,3 +83,13 @@ Go to:
 http://localhost:3000
 Now you can start chatting in real time with other users.
 
+
+## Images
+    
+![pic0](https://github.com/iamdeepak199/Chatting-App-Socket.io/blob/main/chat.jpg)
+![pic1](https://github.com/iamdeepak199/Chatting-App-Socket.io/blob/main/user1.jpg)
+![pic0](https://github.com/iamdeepak199/Chatting-App-Socket.io/blob/main/user2.jpg)
+![pic1](https://github.com/iamdeepak199/Chatting-App-Socket.io/blob/main/database_chat.jpg)
+
+
+
