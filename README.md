@@ -1,7 +1,7 @@
 ﻿💬 Chatting-App-Socket.io
 
 
- 💬 Chatting App (Socket.io + Node.js)
+ 💬 Chatting App(Socket.io + Node.js)
 This is a real-time Chatting Application built using Node.js, Socket.io, Express, and MySQL Workbench. The app allows multiple users to join, send, and receive messages instantly in a shared chatroom interface.
 
     🔧 Technologies Used:
